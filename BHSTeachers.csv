@@ -3,7 +3,7 @@ Lauren,Horne,no,500,0,Principal,Red
 Shantae,Romain,no,500,0,Operations,Blue
 Fernando,Acosta,no,300,0,Math,Yellow
 Vicmarys,Brito,no,300,0,Spanish,Red
-Adam,Dobberfuhl,no,300,0,Science,Yellow
+Adam,Dobberfuhl,no,300,0,Science,orange
 Heather,Staats,no,500,0,History,pink
 Christopher,Wallace,no,500,0,History,purple
 Jonathan,Jean-Louis,no,500,0,Dean,orange
@@ -12,7 +12,6 @@ Thessa,Andrad,yes,4,75,English,blue
 Joanna,Cabrera,yes,3,63,English,yellow
 Christine,Ko,yes,2,50,History,yellow
 Kelley,Ferreira,yes,4,63,English,orange
-Polly,Furth,yes,3,45,English,blue
 Jim,Mayers,yes,4,35,English,green
 Maddy,Nam,yes,3,45,English,teal
 Brandi,Brillant,yes,4,67,Math,orange
@@ -29,3 +28,4 @@ Daphne,Krutulis,yes,4,34,Computer Science,green
 Nicholas,Martin,yes,3,56,Computer Science,blue
 Iris,Oliver,yes,4,70,Computer Science,yellow
 Jada,Worthy,yes,4,35,Computer Science,blue
+
